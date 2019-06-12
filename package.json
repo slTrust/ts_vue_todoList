@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
-  "homepage" : "https://sltrust.github.io/ts_vue_todoList/dist",
+  "homepage" : "https://sltrust.github.io/ts_vue_todolist/dist",
   "dependencies": {
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
